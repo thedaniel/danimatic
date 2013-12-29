@@ -1,0 +1,4 @@
+danimatic
+=========
+
+easy javascript animatics
