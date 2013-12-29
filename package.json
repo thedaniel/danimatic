@@ -1,0 +1,8 @@
+{
+  "name": "danimatic",
+  "description": "easy animatics",
+  "version": "0.0.1",
+  "dependencies": {
+    "http-server": "0.6.1"
+  }
+}

@@ -1,0 +1,7 @@
+#!/bin/bash
+if ! [ -e ./node_modules/http-server/bin/http-server ]
+then
+  script/bootstrap
+fi
+
+./node_modules/http-server/bin/http-server static
