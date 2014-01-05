@@ -1,0 +1,14 @@
+div {
+  border: 1px dotted red;
+}
+
+#frames {
+  float: left;
+  width: 200px;
+  overflow: scroll;
+}
+
+#player {
+  width: 600px;
+  float: left;
+}
