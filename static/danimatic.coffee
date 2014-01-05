@@ -16,10 +16,6 @@ fixture =
     [2500, 'fixture/d.png'],
   ]
 
-
-# Implements enough of the SoundManager sound object API that we can use SM and
-# its callbacks to manage the timing of frames even if we don't have a real sound.
-
 class Player
   constructor: ->
     @position = 0
